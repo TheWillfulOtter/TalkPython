@@ -1,6 +1,6 @@
 """
 From the Talk Python Training.
-Competed 2017-12-29
+Completed 2017-12-29
 """
 import random
 
